@@ -167,7 +167,7 @@ If you really want to minimize the amount of data you're giving up to large corp
 * Changing your [DNS configuration](https://securitytrails.com/blog/firefox-dns-over-ssl-cloudflare-resolvers)
 * Considering a VPN
 
-On the VPN topic, while it sounds seductive to have all your traffic encrypted and safe from prying eyes, you are actually giving 100% of your traffic logs to a potentially unsavory third party.  I would only suggest this if you have the technical ability to operate your own VPN.
+On the VPN topic, while it sounds seductive to have all your traffic encrypted and safe from prying eyes, you are actually giving 100% of your traffic logs to a potentially unsavory third party.  As such, I would only suggest a VPN if you have the technical ability to operate your own.
 
 ## On Encrypted Communications
 
