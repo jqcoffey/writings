@@ -83,7 +83,7 @@ In fact, make sure all of your software is up to date at all times.
 
 # Safe Internet Browsing
 
-The Internet is exceedingly dangerous to the unwary.  Websites can infect your computer with all sorts of malware just by visiting them.  The best advice is to be conservative in your actions:
+The Internet is exceedingly dangerous to the unaware and unwary.  Websites can infect your computer with all sorts of malware just by visiting them.  The best advice is to be conservative in your actions:
 * Avoid dodgy websites like those for downloading pirated media or other illegal activities.  Porn sites are also known to host malware.
 * Never click on a link in any email, especially if it is asking you to login to your account, change or recover your password, etc.
 * Ensure the websites you visit are always using SSL encryption (the little green lock in the location bar of your browser assures this).  You can also install the [SSL Everywhere extension in your browser](https://www.eff.org/https-everywhere).
