@@ -213,4 +213,4 @@ Oh, and be sure to quit using all social media, Google services, setup your own 
 * https://duckduckgo.com/
 * https://protonmail.com/
 * https://wego.here.com/
-* https://www.schneier.com/blog/archives/2015/07/comparing_the_s_1.html
+* https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf
