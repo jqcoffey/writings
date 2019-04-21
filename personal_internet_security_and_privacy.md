@@ -138,7 +138,7 @@ If you must use a smart device, you may be able to do so without it always conne
 
 ## Home Listening Devices (aka Smart Speakers)
 
-Virtual assistants provide a wealth of hands-free functionality.  Of course, they do so by listening to everything going on in your home.  The [privacy concerns](https://en.wikipedia.org/wiki/Smart_speaker#Privacy_concerns) are obvious, though there is nothing concrete suggesting that Amazon or Google are doing anything nefarious with what it hears.  Apple, for their part appear to have the best policy of the bunch.  For a reasonable summary of policies, have a read [here](https://protonvpn.com/blog/amazon-echo-google-home-facebook-portal-apple-homepod-privacy/).
+Virtual assistants provide a wealth of hands-free functionality.  Of course, they do so by listening to everything going on in your home.  The [privacy concerns](https://en.wikipedia.org/wiki/Smart_speaker#Privacy_concerns) are obvious, though there is nothing concrete suggesting that Amazon or Google are doing anything nefarious with what they hear.  Apple, for their part appear to have the best policy of the bunch.  For a reasonable summary of policies, have a read [here](https://protonvpn.com/blog/amazon-echo-google-home-facebook-portal-apple-homepod-privacy/).
 
 Of course, your cellphone has a microphone and a virtual assistant on it as well.
 
