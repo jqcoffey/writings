@@ -114,7 +114,7 @@ Still you should:
 
 Guess what?  USB is yet another attack surface and it's a doozy.  Due to [fundamental design flaws in USB allowing unsigned code to be executed without detection](https://www.schneier.com/blog/archives/2014/07/the_fundamental.html), plugging in the wrong USB stick can result in all kinds of pain, not the least of which are keyloggers.  Also, USB aware malware can infect a previously clean USB stick and propogate itself to another computer.  Read more [here](http://theinvisiblethings.blogspot.com/2011/06/usb-security-challenges.html).
 
-Your only defense is to only use USB sticks you know to be good and to not share them with computers you also don't know to be clean.  You know, like needles.
+The best defense is to only use USB sticks you know to be good and to not share them with computers you also don't know to be clean.  You know, like needles.
 
 # Your Local Network
 
