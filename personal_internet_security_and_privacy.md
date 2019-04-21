@@ -49,7 +49,7 @@ My policy is pretty simple:
 * Passwords should be 16 characters, include mixed case, numbers and symbols
 * Use some sort of password manager (I use [pass](https://www.passwordstore.org/))
 
-The above provides the principal protections you need.  First it ensures you have passwords that will [take millions of years to crack](../resources/password_entropy.png), even by state actors.  It also means that even if [some unscrupulous service provider doesn't store passwords in an encrypted format](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/), your data breach is isolated to that provider.
+The above provides the principal protections you need.  First it ensures you have passwords that will [take millions of years to crack](resources/password_entropy.png), even by state actors.  It also means that even if [some unscrupulous service provider doesn't store passwords in an encrypted format](https://krebsonsecurity.com/2019/03/facebook-stored-hundreds-of-millions-of-user-passwords-in-plain-text-for-years/), your data breach is isolated to that provider.
 
 If all of this sounds like too much of a headache, then at the very least have unique and different passwords for your critical accounts, in particular your email account(s), which are generally used for password recovery and two factor authentication (2FA).
 
@@ -67,7 +67,7 @@ This is an additional protection and you should use it for every service that of
 
 # Operating Systems, Web Browsers and Applications
 
-In the early 2000's everyone "knew" that Windows was a playground for black-hat hackers. Windows viruses and self-propagating worms were an every day fact of life, so much so that Bill Gates himself famously responded with his [Trustworthy Computing](../resources/bill_gates_trustworthy_computing.txt) internal memo at Microsoft.  For the security conscious amongst us it was easy enough to switch to a Macintosh--or for the more adventerous Linux or one of the [BSDs](https://openbsd.org)--to remove this class of exploits entirely, but this is no longer (and never really was) sufficient.
+In the early 2000's everyone "knew" that Windows was a playground for black-hat hackers. Windows viruses and self-propagating worms were an every day fact of life, so much so that Bill Gates himself famously responded with his [Trustworthy Computing](resources/bill_gates_trustworthy_computing.txt) internal memo at Microsoft.  For the security conscious amongst us it was easy enough to switch to a Macintosh--or for the more adventerous Linux or one of the [BSDs](https://openbsd.org)--to remove this class of exploits entirely, but this is no longer (and never really was) sufficient.
 
 Probably the biggest single entry point into a computer is your web browser.  What once were simple tools for displaying text and graphics are now advanced application deployment platforms for 3rd-party developers (including the bad folks).  With [zero-day exploits](https://en.wikipedia.org/wiki/Zero-day_(computing)) targeting web browsers that run on many different OSes your choice of OS is less important than you might have thought.
 
