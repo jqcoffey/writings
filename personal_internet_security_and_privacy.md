@@ -198,3 +198,9 @@ Regarding privacy, Apple has made a big public push advocating more privacy cont
 If you really want to go off the grid, you should consider an old-school feature phone and running [OpenBSD](https://openbsd.org).  You'll still be tracked, your data will still be [sold by your wireless carrier](https://techcrunch.com/2019/01/09/us-cell-carriers-still-selling-your-location-data/) and you'll need to be quite technical to get OpenBSD working on your laptop, but it's about as far as you can reasonably go these days.
 
 Oh, and be sure to quit using Google services, setup your own email, DNS, VPN, etc. servers.
+
+## Resources
+
+* https://ssd.eff.org/
+* https://www.schneier.com/
+* https://krebsonsecurity.com/
