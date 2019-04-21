@@ -75,7 +75,7 @@ Probably the biggest single entry point into a computer is your web browser.  Wh
 
 So just like your OS, it is incredibly important to keep your browser up to date. If you use your OS's browser (e.g. Safari for macOS or Edge for Windows) then the system updates will take care of this for you.  Recent versions of Firefox have auto-updates on by default, but for other browsers I'm not sure and in any case it's worth a double check.
 
-While not any more secure than the alternatives, due to their active support for privacy on the Internet, I use Firefox on my laptop/desktops.  Being an iPhone user and thanks to Apple's efforts in this arena as well, I happily use Safari on my iPhone.
+While not any more secure than the alternatives, due to their active support for privacy on the Internet, I use Firefox on my laptop/desktops.  Being an iPhone user and thanks to Apple's efforts in this area as well, I happily use Safari on my iPhone.
 
 As implied above, applications as attack vectors is not anything new.  Before web browsers, attackers targeted MS Office applications like Outlook, Word and Excel to great effect.  Make sure they're up to date as well.
 
