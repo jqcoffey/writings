@@ -61,7 +61,7 @@ As mentioned above, I use a command line tool called [pass](https://www.password
 
 ## Two Factor Authentication (2FA)
 
-Many service proivders will provide two factor authentication or 2FA, which is a way to "double check" that the account holder is really the person attempting to authenticate.  This can be done via email, SMS or dedicate "one time password" (OTP) applications, frequently installed on your cellphone.
+Many service proivders will provide two factor authentication or 2FA, which is a way to "double check" that the account holder is really the person attempting to authenticate.  This can be done via email, SMS or dedicated "one time password" (OTP) applications, frequently installed on your cellphone.
 
 This is an additional protection and you should use it for every service that offers it.  Of course, since most of these mechanisms work via your cellphone (and you may have your password manager on it as well), it will now become your online security's weakest link.
 
