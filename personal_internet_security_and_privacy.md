@@ -1,8 +1,8 @@
-# Personal Internet Security and Privacy Cheatsheet
+# Personal Internet Security and Privacy
 
 Personal security and privacy on the Internet is increasingly complicated to navigate. Threats to both are rampant and growing and even the well informed can fall prey to bad actors. In order to help myself do the best I can to protect my family's assets, I decided to jot down a few basic principles with links to relevant resources. By publishing this publicly, hopefully I can help others in some small way as well. 
 
-Full disclosure obliges, of course. I am not in the least an expert in security and privacy matters. I am, however, someone who has been working on networked systems for over two decades and have over that time had the pleasure to work with folks who are. This has allowed me to gleen enough wisdom to build this cheatsheet.
+Full disclosure obliges, of course. I am not in the least an expert in security and privacy matters. I am, however, someone who has been working on networked systems for over two decades and have over that time had the pleasure to work with folks who are. This has allowed me to glean enough wisdom to write this guide.
 
 ## tl;dr
 
