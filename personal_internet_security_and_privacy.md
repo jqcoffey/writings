@@ -65,6 +65,8 @@ Many service proivders will provide two factor authentication or 2FA, which is a
 
 This is an additional protection and you should use it for every service that offers it.  Of course, since most of these mechanisms work via your cellphone (and you may have your password manager on it as well), it will now become your online security's weakest link.
 
+You should consider getting a [yubikey](https://www.yubico.com/) which will handle 2FA for you (amongst other password management duties).
+
 # Operating Systems, Web Browsers and Applications
 
 In the early 2000's everyone "knew" that Windows was a playground for black-hat hackers. Windows viruses and self-propagating worms were an every day fact of life, so much so that Bill Gates himself famously responded with his [Trustworthy Computing](resources/bill_gates_trustworthy_computing.txt) internal memo at Microsoft.  For the security conscious amongst us it was easy enough to switch to a Macintosh--or for the more adventerous Linux or one of the [BSDs](https://openbsd.org)--to remove this class of exploits entirely, but this is no longer (and never really was) sufficient.
